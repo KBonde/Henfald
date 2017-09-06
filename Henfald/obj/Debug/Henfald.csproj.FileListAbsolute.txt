@@ -1,0 +1,10 @@
+D:\Users\Kristian\source\repos\Henfald\Henfald\obj\Debug\Henfald.csprojResolveAssemblyReference.cache
+D:\Users\Kristian\source\repos\Henfald\Henfald\obj\Debug\Henfald.Properties.Resources.resources
+D:\Users\Kristian\source\repos\Henfald\Henfald\obj\Debug\Henfald.csproj.GenerateResource.Cache
+D:\Users\Kristian\source\repos\Henfald\Henfald\obj\Debug\Henfald.csproj.CoreCompileInputs.cache
+D:\Users\Kristian\source\repos\Henfald\Henfald\bin\Debug\Henfald.exe.config
+D:\Users\Kristian\source\repos\Henfald\Henfald\bin\Debug\Henfald.exe
+D:\Users\Kristian\source\repos\Henfald\Henfald\bin\Debug\Henfald.pdb
+D:\Users\Kristian\source\repos\Henfald\Henfald\obj\Debug\Henfald.exe
+D:\Users\Kristian\source\repos\Henfald\Henfald\obj\Debug\Henfald.pdb
+D:\Users\Kristian\source\repos\Henfald\Henfald\obj\Debug\Henfald.atom.resources
